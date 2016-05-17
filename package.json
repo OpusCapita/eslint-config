@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-jcatalog",
+  "version": "0.1.0",
+  "description": "jCatalog eslint styleguide",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://buildserver.jcatalog.com/git/js-eslint-config-jcatalog"
+  },
+  "author": "Daniel Zhitomirsky (daniel.zhitomirsky@jcatalog.com)",
+  "license": "jCatalog",
+  "devDependencies": {
+    "eslint": "^2.10.1",
+    "eslint-find-rules": "^1.9.2",
+    "eslint-plugin-import": "^1.8.0",
+    "eslint-plugin-react": "3.16.1"
+  },
+  "peerDependencies": {
+    "eslint": "^2.10.1",
+    "eslint-plugin-import": "^1.8.0"
+  }
+}
