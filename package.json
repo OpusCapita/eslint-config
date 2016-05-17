@@ -16,7 +16,7 @@
     "eslint": "^2.10.1",
     "eslint-find-rules": "^1.9.2",
     "eslint-plugin-react": "3.16.1",
-    "babel-eslint": "6.0.4",
+    "babel-eslint": "6.0.4"
   },
   "peerDependencies": {
     "eslint": "^2.10.1",
