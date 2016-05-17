@@ -7,10 +7,12 @@ module.exports = {
     node: false
   },
   parser: "babel-eslint",
+  parserOptions: {
+    ecmaFeatures: {
+      "jsx": true
+    }
+  },
   plugins: [
     "react"
-   ],
-  ecmaFeatures: {
-    jsx: true
-  }
+   ]
 };
