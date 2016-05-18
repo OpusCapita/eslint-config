@@ -1,26 +1,26 @@
 {
   "name": "eslint-config-jcatalog",
-  "version": "0.1.0",
-  "description": "jCatalog eslint styleguide",
+  "version": "1.0.0",
+  "description": "jCatalog's ESLint config, following our styleguide",
   "main": "index.js",
   "scripts": {
     "lint": "eslint ."
   },
   "repository": {
     "type": "git",
-    "url": "http://buildserver.jcatalog.com/git/js-eslint-config-jcatalog"
+    "url": "http://buildserver.jcatalog.com/git/js-eslint-config-jcatalog.git"
   },
   "author": "Daniel Zhitomirsky (daniel.zhitomirsky@jcatalog.com)",
   "license": "jCatalog",
   "devDependencies": {
-    "eslint": "^2.10.1",
+    "eslint": "^2.10.2",
     "eslint-find-rules": "^1.9.2",
-    "eslint-plugin-react": "3.16.1",
-    "babel-eslint": "6.0.4"
+    "eslint-plugin-react": "^5.1.1",
+    "babel-eslint": "^6.0.4"
   },
   "peerDependencies": {
-    "eslint": "^2.10.1",
-    "eslint-plugin-react": "3.16.1",
-    "babel-eslint": "6.0.4"
+    "eslint": "^2.10.2",
+    "eslint-plugin-react": "^5.1.1",
+    "babel-eslint": "^6.0.4"
   }
 }

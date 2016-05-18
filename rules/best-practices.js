@@ -14,7 +14,7 @@ module.exports = {
     // GOOD =>>>
     // var foo = object.
     // property;
-    //var bar = object.property;
+    // var bar = object.property;
     "dot-location": [2, "object"],
     // require the use of === and !==
     "eqeqeq": 2,

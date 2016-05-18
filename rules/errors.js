@@ -45,7 +45,7 @@ module.exports = {
     // x = 1;
     // return x;
     // x = 3; // this will never execute
-    //}
+    // }
     "no-unreachable": 2,
     // disallow comparisons with the value NaN
     "use-isnan": 2,

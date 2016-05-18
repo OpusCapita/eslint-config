@@ -11,9 +11,9 @@ module.exports = {
     // enforce one true brace style
     "brace-style": [2, "1tbs", { "allowSingleLine": true }],
     // require camel case names
-    "camelcase": [2, {"properties": "never"}],
+    "camelcase": [2, { "properties": "never" }],
     // enforce spacing before and after comma
-    "comma-spacing": [2, {"before": false, "after": true}],
+    "comma-spacing": [2, { "before": false, "after": true }],
     // enforce one true comma style
     // var foo = ["apples"
     //  , "oranges"]; <<<= BAD COMMA PLACEMENT
@@ -27,7 +27,7 @@ module.exports = {
     // specify whether double or single quotes should be used in JSX attributes
     // "jsx-quotes": [2, "prefer-double"],
     // enforces spacing between keys and values in object literal properties
-    "key-spacing": [2, {"beforeColon": false, "afterColon": true}],
+    "key-spacing": [2, { "beforeColon": false, "afterColon": true }],
     // disallow mixed "LF" and "CRLF" as linebreaks
     "linebreak-style": [2, "unix"],
     // enforces empty lines around comments
@@ -38,11 +38,11 @@ module.exports = {
       "ignoreComments": false
     }],
     // require a capital letter for constructors
-    "new-cap": [2, {"newIsCap": true, capIsNew: false}],
+    "new-cap": [2, { "newIsCap": true, capIsNew: false }],
     // disallow mixed spaces and tabs for indentation
     "no-mixed-spaces-and-tabs": 2,
     // disallow multiple empty lines
-    "no-multiple-empty-lines": [2, {"max": 2, "maxEOF": 1}],
+    "no-multiple-empty-lines": [2, { "max": 2, "maxEOF": 1 }],
     // disallow use of the Object constructor
     "no-new-object": 2,
     // disallow space between function identifier and application
@@ -67,13 +67,13 @@ module.exports = {
     // BAD =>>>
     // var a = "b" ;
     // var c = "d";var e = "f";
-    "semi-spacing": [2, {"before": false, "after": true}],
+    "semi-spacing": [2, { "before": false, "after": true }],
     // require or disallow use of semicolons instead of ASI
     // "semi": [2, "always"],
     // require a space before/after certain keywords
     // }else if (bar) <<<= BAD
     // } else if (bar) <<<= GOOD
-    "keyword-spacing": [2, {"before": true, "after": true}],
+    "keyword-spacing": [2, { "before": true, "after": true }],
     // require or disallow space before blocks
     "space-before-blocks": [2, "always"],
     // require or disallow space before function opening parenthesis

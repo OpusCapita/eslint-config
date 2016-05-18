@@ -5,6 +5,12 @@ module.exports = {
   "plugins": [
     "react"
   ],
+  "settings": {
+    "react": {
+      "pragma": "React",
+      "version": "0.14"
+    }
+  },
   "ecmaFeatures": {
     "jsx": false
   },
