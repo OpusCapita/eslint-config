@@ -74,7 +74,12 @@ module.exports = {
     // Enforce ES5 or ES6 class for React Components
     "react/prefer-es6-class": [2, "always"],
     // Prevent missing props validation in a React component definition
-    "react/prop-types": [2, { "ignore": [], "customValidators": [] }],
+    "react/prop-types": [2, { "ignore": [
+      "children",
+      "location",
+      "routeParams",
+      "dispatch",
+      "route"], "customValidators": [] }],
     // Prevent missing React when using JSX
     "react/react-in-jsx-scope": 2,
     // Prevent extra closing tags for components without children
