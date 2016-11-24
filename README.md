@@ -24,8 +24,8 @@ Our default export contains all of our ESLint rules, including ECMAScript 2015+ 
 
 ### Rules reference
 
-* [EcmaScript rules](http://eslint.org/docs/rules/)
-* [React specific rules](https://github.com/yannickcr/eslint-plugin-react#list-of-supported-rules)
+* [ECMAScript rules](http://eslint.org/docs/rules/)
+* [React rules](https://github.com/yannickcr/eslint-plugin-react#list-of-supported-rules)
 
 ### Configure your editor
 
