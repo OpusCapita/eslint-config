@@ -9,7 +9,7 @@ It helps to take a code more clear and readable. For example it detects an [unus
 
 ## Usage
 
-Our default export contains all of our ESLint rules, including ECMAScript 6+ and React.
+Our default export contains all of our ESLint rules, including ECMAScript 2015+ and React.
 
 **It requires:**
 
@@ -29,7 +29,7 @@ Our default export contains all of our ESLint rules, including ECMAScript 6+ and
 
 ### Configure your editor
 
-You shoud't run `npm run eslint` every time. Your editor will highlight an errors on fly.
+It unnecessary to run `npm run eslint` every time for error checking. Your editor able to highlight an errors on fly.
 Some users prefer this way.
 
 [How to enable ESLint in your editor](http://eslint.org/docs/user-guide/integrations)
