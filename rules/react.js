@@ -62,11 +62,12 @@ module.exports = {
     // This rule will find variables used in JSX and mark them as used.
     "react/jsx-uses-vars": 2,
     // Prevent usage of deprecated methods
-    "react/no-deprecated": [2, { "react": "0.14.0" }],
+    // "react/no-deprecated": [2, { "react": "0.14.0" }],
+    "react/no-deprecated": 2,
     // Prevent usage of setState in componentDidMount
-    "react/no-did-mount-set-state": [2, "allow-in-func"],
+    "react/no-did-mount-set-state": 2,
     // Prevent usage of setState in componentDidUpdate
-    "react/no-did-update-set-state": [2, "allow-in-func"],
+    "react/no-did-update-set-state": 2,
     // Prevent direct mutation of this.state
     "react/no-direct-mutation-state": 2,
     // Prevent multiple component definition per file
@@ -94,7 +95,7 @@ module.exports = {
       ]
     }],
     // Prevent missing parentheses around multilines JSX
-    "react/wrap-multilines": [2, {
+    "react/jsx-wrap-multilines": [2, {
       declaration: true,
       assignment: true,
       return: true
