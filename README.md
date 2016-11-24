@@ -4,7 +4,7 @@
 
 ## Motivation
 
-[ESLint](http://eslint.org/) is a tool to guarantee a **code style consistency** across developers team.
+[ESLint](http://eslint.org/) is a tool for guarantee a **code style consistency** across developers team.
 It helps to take a code more clear and readable. For example it detects an [unused variables](http://eslint.org/docs/rules/no-unused-vars). Also with linting you automatically avoid common [pit](http://stackoverflow.com/questions/7818903/jslint-says-missing-radix-parameter-what-should-i-do)-[falls](http://eslint.org/docs/rules/eqeqeq)
 
 ## Usage
