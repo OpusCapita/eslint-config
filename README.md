@@ -1,4 +1,4 @@
-# [js-eslint-config](https://github.com/OpusCapitaBES/js-eslint-config)
+# js-eslint-config
 
 ## Synopsis
 
