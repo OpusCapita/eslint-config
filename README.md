@@ -1,3 +1,5 @@
+# js-eslint-config
+
 ## Synopsis
 
 **This package** provides OpusCapita's base JS [.eslintrc](http://eslint.org/docs/user-guide/configuring#configuration-file-formats) as an extensible shared config.
