@@ -1,4 +1,4 @@
-# js-eslint-config
+# JS - ESLint config
 
 ## Synopsis
 
