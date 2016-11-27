@@ -36,7 +36,7 @@ Some users prefer this way.
 
 [How to enable ESLint in your editor](http://eslint.org/docs/user-guide/integrations)
 
-### Some rules can be fixed automatically
+### Automatically fixing can be applied to some rules 
 
 `npm run lint -- --fix`
 
