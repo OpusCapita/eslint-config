@@ -29,7 +29,7 @@ Our default export contains all of our ESLint rules, including ECMAScript 2015+ 
 * [ECMAScript rules](http://eslint.org/docs/rules/)
 * [React rules](https://github.com/yannickcr/eslint-plugin-react#list-of-supported-rules)
 
-### Configure your editor
+### Editor configuration
 
 It unnecessary to run `npm run eslint` every time for error checking. Your editor able to highlight an errors on fly.
 Some users prefer this way.
