@@ -1,17 +1,17 @@
 {
-  "name": "@opuscapita/eslint-config",
-  "version": "1.0.0",
+  "name": "opuscapita-eslint-config",
+  "version": "1.0.1",
   "description": "OpusCapita ESLint config, following our styleguide",
   "main": "index.js",
   "scripts": {
     "lint": "eslint ."
   },
+  "homepage": "https://github.com/OpusCapitaBES/js-eslint-config",
   "repository": {
     "type": "git",
     "url": "https://github.com/OpusCapitaBES/js-eslint-config"
   },
-  "author": "Daniel Zhitomirsky (daniel.zhitomirsky@jcatalog.com)",
-  "license": "UNLICENSED",
+  "license": "Apache 2.0",
   "devDependencies": {
     "eslint": "^3.10.2",
     "eslint-find-rules": "^1.14.3",
