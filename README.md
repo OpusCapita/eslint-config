@@ -16,9 +16,7 @@ Our default export contains all of our ESLint rules, including ECMAScript 2015+ 
 **It requires:**
 
 * [eslint@7.x](https://github.com/eslint/eslint)
-
 * [eslint-plugin-react@6.x](https://github.com/yannickcr/eslint-plugin-react)
-
 * [babel-eslint@6.x](https://github.com/babel/babel-eslint)
 
 
