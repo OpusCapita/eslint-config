@@ -1,5 +1,5 @@
 {
-  "name": "opuscapita-eslint-config",
+  "name": "eslint-config-opuscapita",
   "version": "1.0.1",
   "description": "OpusCapita ESLint config, following our styleguide",
   "main": "index.js",
