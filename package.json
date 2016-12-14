@@ -14,7 +14,7 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
-  "license": "Apache License 2.0",
+  "license": "Apache-2.0",
   "devDependencies": {
     "eslint": "^3.10.2",
     "eslint-find-rules": "^1.14.3",
