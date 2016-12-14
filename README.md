@@ -1,4 +1,4 @@
-# JS - ESLint config
+# OpusCapita ESLint config
 
 ## Synopsis
 
@@ -20,13 +20,13 @@ Our default export contains all of our ESLint rules, including ECMAScript 2015+ 
 * [babel-eslint@6.x](https://github.com/babel/babel-eslint)
 
 
-1. `npm install --save-dev -E @opuscapita/eslint-config eslint-plugin-react@6 babel-eslint@7 eslint@7`
-2. add `"extends": "@opuscapita/eslint-config"` to your .eslintrc
+1. `npm install --save-dev -E opuscapita-eslint-config eslint-plugin-react@6 babel-eslint@7 eslint@7`
+2. add `"extends": "opuscapita-eslint-config"` to your .eslintrc
 
 .eslintrc xample:
 ```javascript
 {
-  "extends": "@opuscapita/eslint-config"
+  "extends": "opuscapita-eslint-config"
 }
 ```
 
@@ -44,7 +44,7 @@ Some users prefer this way.
 
 [How to enable ESLint in your editor](http://eslint.org/docs/user-guide/integrations)
 
-### Automatically fixing can be applied to some rules 
+### Automatically fixing can be applied to some rules
 
 `npm run lint -- --fix`
 
@@ -56,4 +56,4 @@ Some users prefer this way.
 
 ## License
 
-OpusCapita 2016
+OpusCapita ESLint config is licensed under the Apache License, Version 2.0. See [LICENSE](./LICENSE) for the full license text.

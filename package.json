@@ -11,6 +11,9 @@
     "type": "git",
     "url": "https://github.com/OpusCapitaBES/js-eslint-config"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "license": "Apache 2.0",
   "devDependencies": {
     "eslint": "^3.10.2",
