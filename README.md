@@ -56,4 +56,4 @@ Some users prefer this way.
 
 ## License
 
-OpusCapita ESLint config is licensed under the Apache License, Version 2.0. See [LICENSE](./LICENSE) for the full license text.
+**OpusCapita ESLint config** is licensed under the Apache License, Version 2.0. See [LICENSE](./LICENSE) for the full license text.
