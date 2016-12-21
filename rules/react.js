@@ -99,6 +99,7 @@ module.exports = {
       declaration: true,
       assignment: true,
       return: true
-    }]
+    }],
+    "react/self-closing-comp": 0
   }
 };
