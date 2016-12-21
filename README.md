@@ -15,11 +15,11 @@ Our default export contains all of our ESLint rules, including ECMAScript 2015+ 
 
 **It requires:**
 
-* [eslint@7.x](https://github.com/eslint/eslint)
+* [eslint@3.x](https://github.com/eslint/eslint)
 * [eslint-plugin-react@6.x](https://github.com/yannickcr/eslint-plugin-react)
 * [babel-eslint@6.x](https://github.com/babel/babel-eslint)
 
-1. `npm install --save-dev -E eslint-config-opuscapita eslint-plugin-react@6 babel-eslint@7 eslint@7`
+1. `npm install --save-dev -E eslint-config-opuscapita eslint-plugin-react@6 babel-eslint@7 eslint@3`
 2. add `"extends": "opuscapita"` to your .eslintrc
 
 .eslintrc xample:
