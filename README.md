@@ -22,10 +22,10 @@ Our default export contains all of our ESLint rules, including ECMAScript 2015+ 
 1. `npm install --save-dev -E eslint-config-opuscapita eslint-plugin-react@6 babel-eslint@7 eslint@3`
 2. add `"extends": "opuscapita"` to your .eslintrc
 
-.eslintrc xample:
+.eslintrc example:
 ```javascript
 {
-  "extends": "eslint-config-opuscapita"
+  "extends": "opuscapita"
 }
 ```
 
