@@ -83,8 +83,6 @@ module.exports = {
       "route"], "customValidators": [] }],
     // Prevent missing React when using JSX
     "react/react-in-jsx-scope": 2,
-    // Prevent extra closing tags for components without children
-    "react/self-closing-comp": 2,
     // Enforce component methods order
     "react/sort-comp": [2, {
       "order": [
