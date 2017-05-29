@@ -6,12 +6,13 @@
   "scripts": {
     "lint": "eslint ."
   },
-  "homepage": "https://github.com/OpusCapitaBES/js-eslint-config",
+  "homepage": "https://github.com/OpusCapita/js-eslint-config",
   "repository": {
     "type": "git",
-    "url": "https://github.com/OpusCapitaBES/js-eslint-config"
+    "url": "https://github.com/OpusCapita/js-eslint-config"
   },
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
   "license": "Apache-2.0",
