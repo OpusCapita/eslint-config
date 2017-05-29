@@ -7,10 +7,12 @@
     "lint": "eslint ."
   },
   "homepage": "https://github.com/OpusCapita/eslint-config",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/OpusCapita/eslint-config"
-  },
+  "contributors": [
+    "Kirill Volkovich <kirill.volkovich@jcatalog.com>",
+    "Daniel Zhitomirsky <daniel.zhitomirsky@jcatalog.com>",
+    "Alexey Sergeev <alexey.sergeev@jcatalog.com>"
+  ],
+  "repository": "OpusCapita/i18n",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
