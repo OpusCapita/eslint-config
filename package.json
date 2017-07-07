@@ -12,7 +12,7 @@
     "Daniel Zhitomirsky <daniel.zhitomirsky@jcatalog.com>",
     "Alexey Sergeev <alexey.sergeev@jcatalog.com>"
   ],
-  "repository": "OpusCapita/i18n",
+  "repository": "OpusCapita/eslint-config",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
