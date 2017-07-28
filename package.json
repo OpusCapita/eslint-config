@@ -4,7 +4,8 @@
   "description": "OpusCapita ESLint config, following our styleguide",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "publish-release": "npm-publish --release"
   },
   "homepage": "https://github.com/OpusCapita/eslint-config",
   "contributors": [
@@ -19,14 +20,15 @@
   },
   "license": "Apache-2.0",
   "devDependencies": {
-    "eslint": "^3.10.2",
-    "eslint-find-rules": "^1.14.3",
-    "eslint-plugin-react": "^6.7.1",
-    "babel-eslint": "^7.1.1"
+    "@opuscapita/npm-scripts": "2.0.0",
+    "babel-eslint": "7.1.1",
+    "eslint": "3.19.0",
+    "eslint-find-rules": "1.14.3",
+    "eslint-plugin-react": "6.10.3"
   },
   "peerDependencies": {
-    "eslint": "^3.10.2",
-    "eslint-plugin-react": "^6.7.1",
-    "babel-eslint": "^7.1.1"
+    "babel-eslint": "^7.1.1",
+    "eslint": "^3.19.0",
+    "eslint-plugin-react": "^6.10.3"
   }
 }
