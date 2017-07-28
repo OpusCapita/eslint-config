@@ -1,3 +1,7 @@
+![badge-npm-version](https://img.shields.io/npm/v/eslint-config-opuscapita.svg)
+[![NPM Downloads](https://img.shields.io/npm/dm/eslint-config-opuscapita.svg)](https://npmjs.org/package/eslint-config-opuscapita)
+![badge-license](https://img.shields.io/github/license/OpusCapita/eslint-config.svg)
+
 # OpusCapita ESLint config
 
 ## Synopsis
