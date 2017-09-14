@@ -32,6 +32,10 @@ Our default export contains all of our ESLint rules, including ECMAScript 2015+ 
   "extends": "opuscapita",
   "env": {
     "node": true
+  },
+  "globals": {
+    "window": true,
+    "document": true
   }
 }
 ```
