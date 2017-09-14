@@ -29,7 +29,10 @@ Our default export contains all of our ESLint rules, including ECMAScript 2015+ 
 .eslintrc example:
 ```javascript
 {
-  "extends": "opuscapita"
+  "extends": "opuscapita",
+  "env": {
+    "node": true
+  }
 }
 ```
 
