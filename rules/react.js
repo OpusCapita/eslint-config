@@ -11,8 +11,10 @@ module.exports = {
       "version": "0.14"
     }
   },
-  "ecmaFeatures": {
-    "jsx": false
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": false
+    }
   },
   "rules": {
     // Enforce boolean attributes notation in JSX
