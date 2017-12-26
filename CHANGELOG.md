@@ -1,3 +1,13 @@
+## [v2.0.0](https://github.com/OpusCapita/eslint-config/compare/v1.0.9...v2.0.0) (Tue, 26 Dec 2017 12:53:30 GMT)
+ - Merge pull request #7 from OpusCapita/issue-6
+    
+    Updated dependencies (d5754ae e21e442, 1c2b093)
+ - Updated readme, upped version (Egor Stambakio <stambakio@scand.com>, e21e442)
+ - Fixed #6 (Egor Stambakio <stambakio@scand.com>, 0b30bd9)
+ - Update README.md (Kirill Volkovich <kvolkovich-sc@users.noreply.github.com>, d5754ae)
+ - Update README.md (Kirill Volkovich <kvolkovich-sc@users.noreply.github.com>, 72aa281)
+ - Add badges to README.md (Alexey Sergeev <asergeev-sc@users.noreply.github.com>, 428cd72)
+
 ## [v1.0.9](https://github.com/OpusCapita/eslint-config/compare/v1.0.8...v1.0.9) (Fri, 28 Jul 2017 20:10:18 GMT)
  - Advancing dependencies. Adding release goal. (Alexey Sergeev <sab@scand.com>, b907d05)
  - Fixing .eslintrc so command 'npm run lint' correctly process rule js fies (Alexey Sergeev <sab@scand.com>, 4d6a3d1)
