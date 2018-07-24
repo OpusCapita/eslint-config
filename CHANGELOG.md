@@ -1,3 +1,6 @@
+## [v2.0.1](https://github.com/OpusCapita/eslint-config/compare/v2.0.0...v2.0.1) (Tue, 24 Jul 2018 11:35:02 GMT)
+ - Prefer const, space in async () (Egor Stambakio <stambakio@scand.com>, e031cf1)
+
 ## [v2.0.0](https://github.com/OpusCapita/eslint-config/compare/v1.0.9...v2.0.0) (Tue, 26 Dec 2017 12:53:30 GMT)
  - Merge pull request #7 from OpusCapita/issue-6
     
