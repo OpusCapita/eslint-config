@@ -13,6 +13,6 @@ module.exports = {
     // disallow use of variables before they are defined
     "no-use-before-define": 2,
     // disallow use of undeclared variables unless mentioned in a /*global */ block
-    'no-undef': 2
+    "no-undef": 2
   }
 };

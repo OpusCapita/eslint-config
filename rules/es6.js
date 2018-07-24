@@ -34,6 +34,11 @@ module.exports = {
     "no-const-assign": 2,
     // require let or const instead of var. Good idea! =)
     "no-var": 2,
+    // if a variable is never reassigned, using the const declaration is better.
+    "prefer-const": [2, {
+      "destructuring": "any",
+      "ignoreReadBeforeAssign": false
+    }],
     // suggest using template literals instead of strings concatenation
     // Why? Template strings give you a readable, concise syntax with proper newlines and string interpolation features.
     // "prefer-template": 2

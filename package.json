@@ -7,6 +7,9 @@
     "lint": "eslint .",
     "publish-release": "npm-publish --release"
   },
+  "gitHooks": {
+    "pre-commit": "npm run lint"
+  },
   "homepage": "https://github.com/OpusCapita/eslint-config",
   "contributors": [
     "Kirill Volkovich <kirill.volkovich@jcatalog.com>",
