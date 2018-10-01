@@ -19,11 +19,11 @@ Our default export contains all of our ESLint rules, including ECMAScript 2015+ 
 
 **It requires:**
 
-* [eslint@4.x](https://github.com/eslint/eslint)
-* [eslint-plugin-react@7.x](https://github.com/yannickcr/eslint-plugin-react)
-* [babel-eslint@8.x](https://github.com/babel/babel-eslint)
+* [eslint@4.14.0](https://github.com/eslint/eslint)
+* [eslint-plugin-react@7.5.1](https://github.com/yannickcr/eslint-plugin-react)
+* [babel-eslint@8.1.2](https://github.com/babel/babel-eslint)
 
-1. `npm install --save-dev -E eslint-config-opuscapita eslint-plugin-react@6 babel-eslint@7 eslint@3`
+1. `npm install --save-dev -E eslint-config-opuscapita eslint-plugin-react@7.5.1 babel-eslint@8.1.2 eslint@4.14.0`
 2. add `"extends": "opuscapita"` to your .eslintrc
 
 .eslintrc example:
@@ -31,11 +31,10 @@ Our default export contains all of our ESLint rules, including ECMAScript 2015+ 
 {
   "extends": "opuscapita",
   "env": {
-    "node": true
-  },
-  "globals": {
-    "window": true,
-    "document": true
+    "jasmine": true,
+    "browser": true,
+    "node": true,
+    "es6": true
   }
 }
 ```
