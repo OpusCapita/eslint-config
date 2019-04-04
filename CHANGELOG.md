@@ -1,3 +1,7 @@
+## [v2.0.9](https://github.com/OpusCapita/eslint-config/compare/v2.0.8...v2.0.9) (Thu, 04 Apr 2019 15:59:26 GMT)
+ - Update package-lock.json (kvolkovich-sc <kirill.volkovich@opuscapita.com>, ddd75b5)
+ - Increase version (kvolkovich-sc <kirill.volkovich@opuscapita.com>, 1ca16d7)
+
 ## [v2.0.8](Thu, 04 Apr 2019 15:48:44 GMT)
  - Increase version (Andrei Mourzenkov <mourzenkov@scand.com>, db4a828)
 
