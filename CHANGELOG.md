@@ -1,3 +1,6 @@
+## [v2.0.10](Thu, 04 Apr 2019 16:21:59 GMT)
+ - Remove optionalDependencies (Andrei Mourzenkov <mourzenkov@scand.com>, ecd058c)
+
 ## [v2.0.9](https://github.com/OpusCapita/eslint-config/compare/v2.0.8...v2.0.9) (Thu, 04 Apr 2019 15:59:26 GMT)
  - Update package-lock.json (kvolkovich-sc <kirill.volkovich@opuscapita.com>, ddd75b5)
  - Increase version (kvolkovich-sc <kirill.volkovich@opuscapita.com>, 1ca16d7)
