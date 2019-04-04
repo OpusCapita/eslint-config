@@ -1,3 +1,6 @@
+## [v2.0.3](Thu, 04 Apr 2019 15:19:52 GMT)
+ - Increase version (Andrei Mourzenkov <mourzenkov@scand.com>, 46eef96)
+
 ## [v2.0.2](Thu, 04 Apr 2019 13:54:40 GMT)
  - Increase version (Andrei Mourzenkov <mourzenkov@scand.com>, 5cce74c)
  - Update package-lock.json (Andrei Mourzenkov <mourzenkov@scand.com>, b096625)
