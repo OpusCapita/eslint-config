@@ -1,3 +1,10 @@
+## [v2.0.2](Thu, 04 Apr 2019 13:54:40 GMT)
+ - Increase version (Andrei Mourzenkov <mourzenkov@scand.com>, 5cce74c)
+ - Update package-lock.json (Andrei Mourzenkov <mourzenkov@scand.com>, b096625)
+ - Move optional packages to optionalDependencies (Andrei Mourzenkov <mourzenkov@scand.com>, 88c1d58)
+ - Fix readme [ci skip] (Egor Stambakio <31243790+estambakio-sc@users.noreply.github.com>, 0198c1c)
+ - Remove obsolete lines in package.json (Egor Stambakio <stambakio@scand.com>, c266101)
+
 ## [v2.0.1](https://github.com/OpusCapita/eslint-config/compare/v2.0.1...v2.0.1) (Tue, 24 Jul 2018 11:35:02 GMT)
 
 ## [v2.0.0](https://github.com/OpusCapita/eslint-config/compare/v1.0.9...v2.0.0) (Tue, 26 Dec 2017 12:53:30 GMT)
