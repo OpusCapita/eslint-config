@@ -56,7 +56,7 @@ module.exports = {
     // "Line 2";
     "no-multi-str": 2,
     // disallow reassignments of native objects
-    "no-native-reassign": 2,
+    "no-global-assign": 2,
     // disallow use of new operator for Function object
     "no-new-func": 2,
     // disallows creating new instances of String,Number, and Boolean

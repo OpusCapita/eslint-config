@@ -8,12 +8,12 @@ module.exports = {
   "settings": {
     "react": {
       "pragma": "React",
-      "version": "0.14"
+      "version": "detect"
     }
   },
   "parserOptions": {
     "ecmaFeatures": {
-      "jsx": false
+      "jsx": true
     }
   },
   "rules": {

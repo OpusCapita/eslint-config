@@ -46,7 +46,7 @@ module.exports = {
     // disallow use of the Object constructor
     "no-new-object": 2,
     // disallow space between function identifier and application
-    "no-spaced-func": 2,
+    "func-call-spacing": 2,
     // disallow trailing whitespace at the end of lines
     "no-trailing-spaces": 2,
     // require or disallow padding inside curly braces.
