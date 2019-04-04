@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-opuscapita",
-  "version": "2.0.10",
+  "version": "2.0.11",
   "description": "OpusCapita ESLint config, following our styleguide",
   "main": "index.js",
   "scripts": {
