@@ -1,3 +1,6 @@
+## [v2.0.6](Thu, 04 Apr 2019 15:32:32 GMT)
+ - Increase version (Andrei Mourzenkov <mourzenkov@scand.com>, 7588603)
+
 ## [v2.0.5](Thu, 04 Apr 2019 15:24:41 GMT)
  - Increase version (Andrei Mourzenkov <mourzenkov@scand.com>, 0b80048)
 
