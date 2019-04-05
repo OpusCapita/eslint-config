@@ -19,11 +19,11 @@ Our default export contains all of our ESLint rules, including ECMAScript 2015+ 
 
 **It requires:**
 
-* [eslint@4.14.0](https://github.com/eslint/eslint)
-* [eslint-plugin-react@7.5.1](https://github.com/yannickcr/eslint-plugin-react)
-* [babel-eslint@8.1.2](https://github.com/babel/babel-eslint)
+* [eslint](https://github.com/eslint/eslint) version >=4.14.0 or 5.
+* Only for applications using [Babel](https://babeljs.io): [babel-eslint](https://github.com/babel/babel-eslint) version >=8.1.2, 9, 10 or 11 (additionally requires [@babel/core](https://github.com/babel/babel/tree/master/packages/babel-core) and expects a valid Babel configuration file to exist, see [here](https://github.com/babel/babel-eslint/blob/5102c31835bdd4ec78d9f32b68a4d94a5c78678d/README.md#breaking-change-in-v11xx) for details).
+* Only for React.js applications: [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) version >=7.5.1.
 
-1. `npm install --save-dev -E eslint-config-opuscapita eslint-plugin-react@7.5.1 babel-eslint@8.1.2 eslint@4.14.0`
+1. `npm install --save-dev -E eslint-config-opuscapita eslint@"^5.16.0" babel-eslint@"^10.0.1" eslint-plugin-react@"^7.12.4"`
 2. add `"extends": "opuscapita"` to your .eslintrc
 
 .eslintrc example:
