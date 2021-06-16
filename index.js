@@ -10,6 +10,7 @@ try {
   if (require.resolve('eslint-plugin-react') && require.resolve('react')) {
     rules.push('./rules/react.js');
   }
+// eslint-disable-next-line no-empty
 } catch (err) {}
 
 module.exports = {

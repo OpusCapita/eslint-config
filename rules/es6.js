@@ -5,6 +5,7 @@ module.exports = {
     "es6": false
   },
   "parserOptions": {
+    "ecmaVersion": 11,
     "ecmaFeatures": {
       "arrowFunctions": true,
       "blockBindings": true,
